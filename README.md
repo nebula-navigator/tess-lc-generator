@@ -7,4 +7,5 @@ python lcgenerator.py
 ```
 Make sure you have eleanor installed in order to use the GUI. The installation instructions can be found on [website](https://adina.feinste.in/eleanor/)
 
-![image](https://github.com/user-attachments/assets/7fda9a5b-d253-4187-9445-7009d23d5baa)
+![image](https://github.com/user-attachments/assets/70b14d9a-a1fb-4e30-b3a5-95e3aa3542dc)
+
